@@ -1,4 +1,4 @@
-# fasf_fashion
+# fast_fashion
 
 A new Flutter project.
 
